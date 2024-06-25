@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/alloc.dir/src/main.c.o CMakeFiles/alloc.dir/src/alloc.c.o -o alloc 
